@@ -1,1 +1,2 @@
-link do site sobre o android: https://digo-nery.github.io/projeto-android/
+criei esse site Curiosidades de Tecnologia 
+link do site : https://digo-nery.github.io/projeto-android/
